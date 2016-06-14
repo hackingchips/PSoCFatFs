@@ -1,0 +1,12 @@
+Last Modified Date & Time: 06/14/2016 18:24:05
+
+PSoc4_FatFs: TopDesign.cysch
+	SPI [v3.0] to [v3.20]
+	UART [v3.0] to [v3.20]
+
+PSoc4_FatFs: PSoc4_FatFs.cydwr
+	cy_boot [v5.20] to [v5.40]
+	cy_lfclk [v1.0] to [v1.10]
+	LIN_Dynamic [v3.20] to [v3.40]
+
+
